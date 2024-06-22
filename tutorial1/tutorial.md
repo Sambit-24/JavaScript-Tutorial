@@ -38,6 +38,7 @@ Then write your code in console for ex:
 2+3
 ```
 --it'll give answer as 5
+
 or input this command
 ``` 
 alert('hello chiku')
